@@ -1,59 +1,83 @@
-body{
+body {
     font-family: 'Open Sans', sans-serif;
 }
-.banner-container{
-    background-color:  #34495e;
+
+.banner-container {
+    background-color: #34495e;
 }
-.banner-color{
+
+.banner-color {
     background-color: rgb(59, 53, 46);
 }
-.navbar-container{
+
+.navbar-container {
     background-color: black;
     position: sticky;
     top: 0;
     z-index: 2;
 }
-.about-container{
+
+.about-container {
     background-color: #16a085;
 }
-.education-container{
+
+.education-container {
     background-color: #ecf0f1;
 }
-.redtype{
+
+.redtype {
     color: #d35400;
 }
-.circle{
+
+.circle {
     background-color: #e67e22;
     height: 150px;
     width: 150px;
     border-radius: 50%;
 }
-.project-container{
+
+.project-container {
     background-color: #3498db;
 }
-.software-container{
+
+.software-container {
     background-color: #40739e;
 }
-.portfolio-container{
+
+.portfolio-container {
 
     background-color: #d2dae2;
 }
-.footer-container{
+
+.footer-container {
 
     background-color: #485460;
 }
-.circle2{
-    height: 60px;
-    width: 60px;
+
+.social-icon {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle2 {
+    height: 55px;
+    width: 55px;
     border-radius: 50%;
     display: inline-block;
-    background-color: white;
+    background-color: rgb(205, 7, 159);
     font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
 }
-.form-container{
+
+.form-container {
     background-color: #273c75;
 }
 
-.inner-form{
+.inner-form {
     background-color: #485460;
 }
