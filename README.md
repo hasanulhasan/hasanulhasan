@@ -1,15 +1,28 @@
-# Mobile Market
+![Front End Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQEeohN5HKWNoA/profile-displaybackgroundimage-shrink_350_1400/0/1637256143523?e=1675296000&v=beta&t=YhvgRq_BhjnKtwrRpRAocHk5E0Y2sZrfsWwXdeyVsf8)
+👋, Heyy, I'm Hasanul Karim
+#### Front End Web Developer
 
-## Project feature
-1- This project may be mini e-commerce site.
-2- 3 types of user interact of selling and buying products
-3- It can grow a business 
-4- It will be user friendly website for buying and selling
-5- Buyer and Seller will get benefits
-6- It is a full stack website where React and Express NodeJs and MongoDB is working simultaneously
+I am expert in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Node JS, MongoDB, Express JS. I have good knowledge in programming. Recently I have done about 12+ post-related projects with the help of Complete Web Development course. I'm energetic, enthusiastic and always eager to learn anything new. 
 
-### `Live link` https://mobile-market-78c1a.web.app/
+Skills: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, React Router, Firebase, Daisy UI, Node JS, MongoDB, Express JS, C programming, Figma, Visual Studio, GitHub, Vercel, netlify, Adobe Illustrator, Adobe Photoshop, Creative writing, MS Office
 
-adminEmail: \<hasi@khusi.com\>
+- 🔭 I’m currently working on React JS, Node JS, MongoDB 
 
-adminPassword: \<hasikhusi8\>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hasanulhasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-hasanul-karim-49284910a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hasanulkarim.hasan1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hasanulhasan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/hasanulkarim/home)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hasanulhasan)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanulhasan)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanulhasan&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hasanulhasan)  
+
+![GitHub metrics](https://metrics.lecoq.io/hasanulhasan)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=hasanulhasan)  
+
+![Profile views](https://gpvc.arturio.dev/hasanulhasan)  
