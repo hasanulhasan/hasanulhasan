@@ -1,4 +1,5 @@
 ![Front End Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQEeohN5HKWNoA/profile-displaybackgroundimage-shrink_350_1400/0/1637256143523?e=1675296000&v=beta&t=YhvgRq_BhjnKtwrRpRAocHk5E0Y2sZrfsWwXdeyVsf8)
+
 👋, Heyy, I'm Hasanul Karim
 #### Front End Web Developer
 
@@ -17,7 +18,7 @@ Skills: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, React Router, Fir
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanulhasan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanulhasan&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanulhasan&show_icons=true&theme=radical&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hasanulhasan)  
 
