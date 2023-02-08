@@ -5,16 +5,16 @@
 </p>
 
 <br>
-#### MERN Stack Developer
+### MERN Stack Developer
 
 I am expert in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Node JS, MongoDB, Express JS. I have good knowledge in programming. Recently I have done about 15+ full Stack projects with the help of Complete Web Development and Bohubrihi courses. I'm energetic, enthusiastic and always eager to learn anything new. 
 
 Skills: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, React Router, Firebase, Daisy UI, Node JS, MongoDB, Redux, React Native, Express JS, C programming, Figma, Visual Studio, GitHub, Vercel, netlify, Adobe Illustrator, Adobe PhotoShop, Creative writing, MS Office
 
-- 🔭 I’m currently working on React JS, Node JS, MongoDB , Redux, React Native
+- 🔭 I’m currently working on 𝐑𝐞𝐚𝐜𝐭 𝐉𝐒, 𝐍𝐨𝐝𝐞 𝐉𝐒, 𝐌𝐨𝐧𝐠𝐨𝐃𝐁 , 𝐑𝐞𝐝𝐮𝐱, 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞
 
-I enjoy connecting with people and exchanging ideas, so please contact me at-
-Email: 𝙝𝙖𝙨𝙖𝙣𝙪𝙡𝙠𝙖𝙧𝙞𝙢𝙝@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢
+I enjoy connecting with people and exchanging ideas, so please contact me at-<br>
+Email: 𝙝𝙖𝙨𝙖𝙣𝙪𝙡𝙠𝙖𝙧𝙞𝙢𝙝@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢 <br>
 Mobile no: +𝟴𝟴𝟬𝟭𝟴𝟲𝟮𝟬𝟴𝟲𝟵𝟲𝟱
 
 <hr>
