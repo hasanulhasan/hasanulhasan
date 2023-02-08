@@ -1,13 +1,21 @@
-![Front End Web Developer](https://www.linkedin.com/in/md-hasanul-karim-49284910a/overlay/background-image/)
+<h1 align="center"><b>Hi , I'm Md Hasanul Karim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-👋, Heyy, I'm Hasanul Karim
-#### Front End Web Developer
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+MERN-Stack+Developer,;Electrical+Engineering+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
-I am expert in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Node JS, MongoDB, Express JS. I have good knowledge in programming. Recently I have done about 12+ post-related projects with the help of Complete Web Development course. I'm energetic, enthusiastic and always eager to learn anything new. 
+<br>
+#### MERN Stack Developer
+
+I am expert in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Node JS, MongoDB, Express JS. I have good knowledge in programming. Recently I have done about 15+ full Stack projects with the help of Complete Web Development and Bohubrihi courses. I'm energetic, enthusiastic and always eager to learn anything new. 
 
 Skills: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, React Router, Firebase, Daisy UI, Node JS, MongoDB, Redux, React Native, Express JS, C programming, Figma, Visual Studio, GitHub, Vercel, netlify, Adobe Illustrator, Adobe PhotoShop, Creative writing, MS Office
 
 - 🔭 I’m currently working on React JS, Node JS, MongoDB , Redux, React Native
+
+I enjoy connecting with people and exchanging ideas, so please contact me at-
+Email: 𝙝𝙖𝙨𝙖𝙣𝙪𝙡𝙠𝙖𝙧𝙞𝙢𝙝@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢
+Mobile no: +𝟴𝟴𝟬𝟭𝟴𝟲𝟮𝟬𝟴𝟲𝟵𝟲𝟱
 
 <hr>
 <h2 align="center"><strong>Reach me</strong></h2>
@@ -26,11 +34,5 @@ Skills: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, React Router, Fir
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanulhasan&show_icons=true&locale=en" alt="hasanulhasan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanulhasan&" alt="hasanulhasan" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanulhasan)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanulhasan&show_icons=true&theme=radical&count_private=true) 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=hasanulhasan)  
 
 ![Profile views](https://gpvc.arturio.dev/hasanulhasan)  
