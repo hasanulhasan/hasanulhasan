@@ -2,11 +2,10 @@
 <h1 align="center"><b>Hi , I'm Md Hasanul Karim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=20&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+MERN-Stack+Developer;Electrical+Engineering+Student;Active+Learner/Researcher;Love+to+learn+new+technology"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=22&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+MERN-Stack+Developer;Electrical+Engineering+Student;Active+Learner/Researcher;Love+to+learn+new+technology"></a>
 </p>
-<div><picture><img src = "./assests/mdImages/about_me.gif" width = 50px></picture><h2>About me</h2></div>
-<img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<div><picture><img align="left" src = "./assests/mdImages/about_me.gif" width = 50px></picture><h2>About me</h2></div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 I am expert in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Node JS, MongoDB, Express JS. I have good knowledge in programming. Recently I have done about 15+ full Stack projects with the help of Complete Web Development and Bohubrihi courses. I'm energetic, enthusiastic and always eager to learn anything new. 
 
