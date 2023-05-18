@@ -33,9 +33,9 @@ Mobile no: +𝟴𝟴𝟬𝟭𝟴𝟲𝟮𝟬𝟴𝟲𝟵𝟲𝟱
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanulhasan&show_icons=true&locale=en&layout=compact" alt="hasanulhasan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanulhasan&show_icons=true&locale=en" alt="hasanulhasan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanulhasan&show_icons=true&locale=en" alt="hasanulhasan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanulhasan&" alt="hasanulhasan" /></p>&nbsp;
-![Leetcode Stats](https://leetcard.jacoblin.cool/hasanulhasan)
+![Leetcode Stats](https://leetcard.jacoblin.cool/hasanulhasan?theme=dark&font=Lato)
 
 ![Profile views](https://gpvc.arturio.dev/hasanulhasan)  
